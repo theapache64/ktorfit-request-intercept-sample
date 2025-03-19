@@ -1,7 +1,7 @@
 plugins {
     kotlin("jvm") version "2.1.10"
     id("com.google.devtools.ksp") version "2.1.10-1.0.31"
-    id("de.jensklingenberg.ktorfit") version "2.4.0"
+    id("de.jensklingenberg.ktorfit") version "2.4.1nacl"
 }
 
 group = "com.github.theapache64"
